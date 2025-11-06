@@ -35,12 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
 </p>
 
----
-
-## 🚀 Projects & Highlights
-
-* **[KrishiLink Nepal](#)** — Connecting farmers to markets *(BSc. CSIT final-year project)*
-* **[Simple Profile Demo](https://simple-profile-demo-mu.vercel.app/)** — Personal profile website deployed on Vercel
 
 ---
 
