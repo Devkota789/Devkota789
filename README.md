@@ -1,10 +1,10 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devkota789&style=flat-square&color=blue" alt="Profile views" />
-</p>
+</p> -->
 
 # <p align="center">Hi, I'm Nischal Devkota 👋</p>
 
-<p align="center"> [.](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&width=440&lines=React+Developer;Web+Enthusiast;Lifelong+Learner)</p>
+<-- <p align="center"> [.](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&width=440&lines=React+Developer;Web+Enthusiast;Lifelong+Learner)</p> -->
 
 ---
 
