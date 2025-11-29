@@ -34,13 +34,12 @@
 
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devkota789&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkota789&theme=tokyonight" alt="GitHub streak stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkota789&layout=compact&theme=tokyonight" alt="Top languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devkota789&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkota789&theme=tokyonight&type=png&cache_seconds=86400" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkota789&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
